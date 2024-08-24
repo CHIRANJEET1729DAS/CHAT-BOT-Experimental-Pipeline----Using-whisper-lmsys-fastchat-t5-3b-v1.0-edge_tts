@@ -1,2 +1,2 @@
-download file = Input audio prompt
+download  = Input audio prompt
 
