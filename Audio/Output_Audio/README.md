@@ -1,3 +1,3 @@
-Output_finally = MALE voice output
-,,
-Output_female_finally = FEMALE voice output
+output_finally = MALE voice output
+  ,,  
+output_female_finally = FEMALE voice output
